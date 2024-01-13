@@ -27,7 +27,10 @@ Reference: https://www.adafruit.com/product/166
 
 <img width="500" alt="Screenshot 2024-01-12 at 15 58 30" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/56a70315-148f-4a7b-9b5b-aaf491850641">
 
+## Sensor Device
+By integrating these sensors into the seat cushion and analyzing the resistance changes they detect, the device can provide real-time feedback on the user's posture and encourage corrections to maintain spinal health. This smart approach allows for a discreet and non-invasive way to ensure ergonomic sitting habits.
 
+<img width="697" alt="Screenshot 2024-01-12 at 16 11 49" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/a5014ee0-9c2d-46e5-ae3e-f5d250d40226">
 
 ## Microcontroller
 **Arduino Uno Rev3**: 
@@ -36,12 +39,6 @@ Arduino Uno is a microcontroller board based on the ATmega328P. It has 14 digita
 Reference: https://store.arduino.cc/products/arduino-uno-rev3  
 
 <img width="500" alt="Screenshot 2024-01-12 at 16 09 31" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/d7565c15-868b-41fa-b0ab-0197b1c7d7b4">
-
-## Sensor Device
-By integrating these sensors into the seat cushion and analyzing the resistance changes they detect, the device can provide real-time feedback on the user's posture and encourage corrections to maintain spinal health. This smart approach allows for a discreet and non-invasive way to ensure ergonomic sitting habits.
-
-<img width="697" alt="Screenshot 2024-01-12 at 16 11 49" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/a5014ee0-9c2d-46e5-ae3e-f5d250d40226">
-
 
 
 ## Display Device
