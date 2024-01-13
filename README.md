@@ -59,4 +59,32 @@ This visual feedback system is user-friendly and serves as an immediate reminder
 
 
 
+## System Architecture Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
