@@ -80,8 +80,7 @@ The microcontroller interprets the processed data and converts it into signals t
 The LED display provides real-time visual feedback to the user. If the user adjusts their posture based on the LED indications, the sensors detect this change, and the new data is sent back to the microcontroller, creating a continuous loop of communication and feedback.
 
 
-<img width="1096" alt="Screenshot 2024-01-12 at 17 09 59" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/eba37778-0bbe-4679-9baa-aa083cea051b">
-
+<img width="1162" alt="Screenshot 2024-01-12 at 17 12 02" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/6cd6b8bd-da2b-4835-956c-6362972bfbd3">
 
 
 
