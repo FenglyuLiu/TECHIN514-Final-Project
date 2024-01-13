@@ -50,9 +50,7 @@ Different patterns can suggest which aspect of the posture is misaligned. **Simp
 
 This visual feedback system is user-friendly and serves as an immediate reminder to maintain healthy spinal alignment while seated.
 
-<img width="354" alt="Screenshot 2024-01-12 at 16 16 25" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/2c336e60-4659-4716-a6bf-0836438a4017">
-
-
+<img width="500" alt="Screenshot 2024-01-12 at 17 20 03" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/a68d77f8-773f-49f1-893f-87289911f03c">
 
 
 
