@@ -56,11 +56,31 @@ This visual feedback system is user-friendly and serves as an immediate reminder
 
 
 
-## System Architecture Diagram
+## System Architecture
 
 
+**Sensor Data Collection:**
+
+The Velostat/Linqstat, stretch sensors, and FSRs collect data on the user's posture by measuring resistance changes. This data is continuously sent to the microcontroller.
+
+**Data Processing:**
+
+The microcontroller reads the analog signals from the sensors which correspond to pressure and stretch values. It then processes these values using predefined algorithms to determine the user's posture.
+
+**Wireless Communication Module:**
+
+A wireless communication module like Bluetooth or Wi-Fi (ESP8266 or ESP32 for Arduino) can be used to transmit data.
+
+**Signal Interpretation and Display:**
+
+The microcontroller interprets the processed data and converts it into signals that can control the LED array. These signals dictate which LEDs light up and their color.
+
+**Feedback Loop:**
+
+The LED display provides real-time visual feedback to the user. If the user adjusts their posture based on the LED indications, the sensors detect this change, and the new data is sent back to the microcontroller, creating a continuous loop of communication and feedback.
 
 
+<img width="1096" alt="Screenshot 2024-01-12 at 17 09 59" src="https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/eba37778-0bbe-4679-9baa-aa083cea051b">
 
 
 
