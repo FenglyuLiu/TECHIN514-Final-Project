@@ -89,6 +89,7 @@ The LED display provides real-time visual feedback to the user. If the user adju
 ![IMG_2883](https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/76c71461-94a9-4113-a35b-6e7db9027c36)
 
 
+![IMG_2885](https://github.com/FenglyuLiu/TECHIN514-Final-Project/assets/88125716/d63a67b6-ff73-46de-9bab-e1f1633b05de)
 
 
 
